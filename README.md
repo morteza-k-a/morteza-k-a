@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @morteza-k-a
 - 👀 I’m interested in javascript and web development
-- 🌱 I’m currently learning vueJS and Django
 - 📫 you can find me on [LinkedIn](https://www.linkedin.com/in/morteza-keykhah-aria-b08442153)
 
 <!---
